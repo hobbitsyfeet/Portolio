@@ -2,19 +2,10 @@
 
 My name is Justin Petluk and received my Bsc in Computer Science at University of Lethbridge in 2020. 
 
-### Projects
+# Projects
 
 # [3DMeasure](https://github.com/hobbitsyfeet/3DMeasure)
-
-<ul>
-<li>
- ![Target_Result_CA](https://raw.githubusercontent.com/hobbitsyfeet/3DMeasure/master/docs/photos/Target_Result_PCA.jpg)
- </li>
- <li>
- ![Distance(Kinect)](https://raw.githubusercontent.com/hobbitsyfeet/3DMeasure/master/docs/DepthCameras/Distance(Kinect).PNG)
- </li>
-</ul>
-
+<img src=https://raw.githubusercontent.com/hobbitsyfeet/3DMeasure/master/docs/photos/Target_Result_PCA.jpg" width="425"/> <img src="https://raw.githubusercontent.com/hobbitsyfeet/3DMeasure/master/docs/DepthCameras/Distance(Kinect).PNG" width="425"/>
 
 
 
