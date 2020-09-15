@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/hobbitsyfeet/hobbitsyfeet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Justin Petluk and received my Bsc in Computer Science at University of Lethbridge in 2020. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
+# [3DMeasure](https://github.com/hobbitsyfeet/3DMeasure)
+![Target_Result_CA](https://github.com/hobbitsyfeet/3DMeasure/blob/master/docs/photos/Target_Result_PCA.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Distance(Kinect)](https://github.com/hobbitsyfeet/3DMeasure/blob/master/docs/DepthCameras/Distance(Kinect).PNG)
 
-```markdown
-Syntax highlighted code block
+PeopleTracker
 
-# Header 1
-## Header 2
-### Header 3
+UofL Study
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hobbitsyfeet/hobbitsyfeet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### Contact
