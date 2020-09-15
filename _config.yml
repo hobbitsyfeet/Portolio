@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
 theme: jekyll-theme-minimal
-=======
-theme: jekyll-theme-minimal
-title: [Justin Petluk]
-description: [A Computer Science Portfolio]
-logo: [images/Profile.jpg]
->>>>>>> Stashed changes
+title: Justin Petluk
+description: A Computer Science Portfolio
+logo: images/Profile.jpg
+
