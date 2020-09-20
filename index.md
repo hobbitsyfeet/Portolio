@@ -10,7 +10,7 @@ I started out with an [Independent Study](https://github.com/hobbitsyfeet/UofLSt
 
 After that course concluded, I was asked if, given a depth camera, could I measure the length of a Vervet Forearm? I said "sure!"
 
-So then I went on a journey to learn about Pointclouds, and after my Advanced Data Processing and Recomendation Systems, I started to learn more about how data is used. I took with an interest on how to analyze Pointclouds with [Point Cloud Library](https://pointclouds.org/), and [Open3D](http://www.open3d.org/) as shown in [3DMeasure](https://github.com/hobbitsyfeet/3DMeasure). Additionally, I decided that this could be done automatically, so I did an Independent Study on Pointnet++ and PointCNN, as well as clustering methods to learn how this data worked in the case of animals. I was generously lent taxidermy animals for testing.
+So then I went on a journey to learn about Pointclouds, and after my Advanced Data Processing and Recomendation Systems, I started to learn more about how data is used. I took with an interest on how to analyze Pointclouds with [Point Cloud Library](https://pointclouds.org/), and [Open3D](http://www.open3d.org/) as shown in [3DMeasure](https://github.com/hobbitsyfeet/3DMeasure). Additionally, I decided that this could be done automatically, so I did an Independent Study on [Pointnet](https://github.com/charlesq34/pointnet), [Pointnet++](https://github.com/charlesq34/pointnet2) and [PointCNN](https://github.com/yangyanli/PointCNN), as well as clustering methods to learn how this data worked in the case of animals. I was generously lent taxidermy animals for testing.
 
 I then took multiple Remote Sensing courses to learn how this type of data was handled and how to transform data into valuable information.
 
@@ -35,3 +35,5 @@ Along the journey, I joined the [Digital Blackfoot Library](https://blackfoot3d.
 
 
 ##### Contact
+
+[justin.petluk@uleth.ca](justin.petluk@uleth.ca)
