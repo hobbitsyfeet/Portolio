@@ -1,6 +1,6 @@
 ## Justin Petluk
-
-## About me
+![Me](https://raw.githubusercontent.com/hobbitsyfeet/hobbitsyfeet/gh-pages/images/Profile.jpg)
+## About me 
 
 My name is Justin Petluk and I received my Bsc in Computer Science at University of Lethbridge in 2020.
 
