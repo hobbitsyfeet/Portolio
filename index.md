@@ -30,14 +30,17 @@ Along the journey, I joined the [Digital Blackfoot Library](https://blackfoot3d.
 
 
 # [PeopleTracker](https://github.com/hobbitsyfeet/PeopleTracker)
+
 PeopleTracker is an OpenCV Object Tracker that is used to collect data about something in a video. Here, it is used on people but has many other applications as well.
+
 <img src="images/PeopleTracker_UI.png" height="200"/> <img src="images\PeopleTracker_Video.png" height="200"/> 
 
 # [UofL Study (A GIS Independent Study)](https://github.com/hobbitsyfeet/UofLStudy)
+
 This Independent Study was designed to track and gather data from a aerial video. It stitches the images together using RANSAC and estimates the viewport of the camera over the images. It then projects the recorded data onto the stitched image and uses the GPS locations to trianglulate the target's location in UTM format using euclidean distance.
+
 <img src="https://raw.githubusercontent.com/hobbitsyfeet/UofLStudy/master/docs/Processing/Selected_Contours.PNG" height="231"/> <img src="https://raw.githubusercontent.com/hobbitsyfeet/UofLStudy/master/docs/Processing/Find_GPS2.PNG" height="231"/> 
 
 
 ##### Contact
-
-[justin.petluk@uleth.ca](justin.petluk@uleth.ca)
+[justin.petluk@uleth.ca]()
