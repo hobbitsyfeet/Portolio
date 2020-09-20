@@ -2,3 +2,5 @@ remote_theme: tuur29/pages-themes-cayman
 title: Justin Petluk
 description: A Computer Science Portfolio
 logo: images/Profile.jpg
+buttons:
+      Github: https://github.com/hobbitsyfeet
