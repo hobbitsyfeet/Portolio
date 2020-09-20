@@ -6,7 +6,7 @@ My name is Justin Petluk and I received my Bsc in Computer Science at University
 
 During my degree, I explored GIS courses and was invited to work with [Barrett-Henzi Lab](https://banzilab.github.io/people.html)
 
-I started out with an [Independent Study](https://github.com/hobbitsyfeet/UofLStudy), to explore how an aerial video could be used to extract real-time gps locations of animals on the ground. We took to the coulies and recorded a video with a Gopro and used a handled GPS to mark the spraypainted coordinates, and I went to learn about image processing and OpenCV.
+I started out with an [Independent Study](https://github.com/hobbitsyfeet/UofLStudy), to explore how an aerial video could be used to extract real-time gps locations of animals on the ground. We took to the coulies and recorded a video with a Gopro and used a handled GPS to mark the spraypainted coordinates, and I went to learn about image processing and [OpenCV](https://opencv.org/).
 
 After that course concluded, I was asked if, given a depth camera, could I measure the length of a Vervet Forearm? I said "sure!"
 
