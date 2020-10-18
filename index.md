@@ -41,6 +41,13 @@ This Independent Study was designed to track and gather data from a aerial video
 
 <img src="https://raw.githubusercontent.com/hobbitsyfeet/UofLStudy/master/docs/Processing/Selected_Contours.PNG" height="231"/> <img src="https://raw.githubusercontent.com/hobbitsyfeet/UofLStudy/master/docs/Processing/Find_GPS2.PNG" height="231"/> 
 
+# [Applied Baysian Statistics, Primate Allometry](https://github.com/hobbitsyfeet/PrimateAllometry)
+
+This study was a precurser to my interest about modeling measurments that were taken by primates, and using baysian statistics to evaluate the relationship between non-human primate bone lengths and their relationships to mass. The idea was that if there is a strong enough relationship, a longbone length could be used as a strong prior for estimating the mass of an individual, in addition to other data if and when it's available.
+
+<img src="https://raw.githubusercontent.com/hobbitsyfeet/PrimateAllometry/main/paper/Vis3.png" height="231"/> <img src="https://raw.githubusercontent.com/hobbitsyfeet/PrimateAllometry/main/paper/Vis1.png" height="231"/> 
+
+<img src="https://raw.githubusercontent.com/hobbitsyfeet/PrimateAllometry/main/paper/Med_Family.png" height="200"/>  <img src="https://raw.githubusercontent.com/hobbitsyfeet/PrimateAllometry/main/paper/Summary.PNG" height="200"/>
 
 ##### Contact
 [justin.petluk@uleth.ca]()
